@@ -1,8 +1,8 @@
 
 # 💫 About Me:
-😎 I’m Fronted Developer<br>🔭 I'm looking job <br>
+😎 I’m Fronted Developer
 
-
+<!-- 🔭 I'm looking job <br> -->
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khikmat5235) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hikmat-bekturdiyev-030080239/) 
 
