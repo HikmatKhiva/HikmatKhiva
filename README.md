@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-😎 I’m Fronted Developer
+😎 I’m Full Stack Developer
 
 <!-- 🔭 I'm looking job <br> -->
 ## 🌐 Socials:
